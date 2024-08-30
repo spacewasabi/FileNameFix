@@ -10,13 +10,7 @@ I recommend running it with bash :
 bash file_rename.sh
 ```
 
-But you can also run it with default shell :
-
-```bash
-sh files_rename.sh
-```
-
-Last possibility, you can change permissions and run it as follows :
+But you can change permissions and run it as follows :
 
 ```bash
 chmod +x files_rename.sh
